@@ -1,4 +1,3 @@
-name: GrowBin
 
 on:
   push:
